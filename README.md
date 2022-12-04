@@ -13,7 +13,7 @@ gameboards is the array of initial gameboard configuration, fuel is the array of
 write_sol_files(gameboards, fuel, UCS, 'ucs', None, None)
 
 #### Run h1 to h4 for GBFS algo across all gameboard
-write_sol_files(gameboards, fuel, GBFS, 'gbfs', h1, 'h1') /n
+write_sol_files(gameboards, fuel, GBFS, 'gbfs', h1, 'h1') \n
 write_sol_files(gameboards, fuel, GBFS, 'gbfs', h2, 'h2') /n
 write_sol_files(gameboards, fuel, GBFS, 'gbfs', h3, 'h3')/n
 write_sol_files(gameboards, fuel, GBFS, 'gbfs', h4, 'h4')/n
