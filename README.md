@@ -6,8 +6,8 @@ Team member: Zeying Wu 40257530; Winyul yin 40176217
 # How to run the program
 ## 1. Run all algorithm with 4 heuristic functions with write_sol_files function, it will genererate both search and solution files.
 
+#### write_sol_files(gameboards, fuel, algo, algo_string, h, h_string):
 gameboards is the array of initial gameboard configuration, fuel is the array of initial fuel for each gameboard, algo is the type of algorithm used for search, algo_string is the name of the algorithm, h is the heuristic function and h
-write_sol_files(gameboards, fuel, algo, algo_string, h, h_string):
 
 #UCS algo
 write_sol_files(gameboards, fuel, UCS, 'ucs', None, None)
@@ -26,6 +26,7 @@ write_sol_files(gameboards, fuel, A, 'a', h4, 'h4')
 
 ## 2. Run all algorithm with 4 heuristic functions with excel_analysis function, it will generate the excel file as instructed in the question pdf.
 
+#### excel_analysis(gameboards,fuel)
 gameboards is the array of initial gameboard configuration, fuel is the array of initial fuel for each gameboard.
-excel_analysis(gameboards,fuel)
+
 
