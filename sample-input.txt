@@ -1,153 +1,125 @@
-#
-# Demo 1
-#
-
-# demo 1.1
-BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
-
-# demo 1.2
-..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
-
-# demo 1.3
-JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH... 
-
-# demo 1.4
-BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
-
-# demo 1.5
-IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
-
-# demo 1.6
-BB.G.HE..G.HEAAG.I..FCCIDDF..I..F...
-
-#demo 1.7
-C.B...C.BHHHAADD........EEGGGF.....F 
-
-#demo 1.8
-.BBB....DD..AA...................CCC 
-
 #demo 1.9
-A.BOOOA.B....XXC...D.C...DPPPE.....E
+Y.BOOOY.B....AAC...D.C...DPPPE.....E
 
 #demo 1.10
-.OOOAA..BPPP..BXXC.....CQQQRRR......
+.OOOYY..BPPP..BAAC.....CQQQRRR......
 
 #demo 1.11
-OPPPAAO....BOXX..BCCQ.....QRRR..Q...
+OPPPYYO....BOAA..BCCQ.....QRRR..Q...
 
 #demo 1.12
-ABBOOOA.....XX...CP....CPDDQQQP.....
+YBBOOOY.....AA...CP....CPDDQQQP.....
 
 #demo 1.13
-..OPPP..O..A..OXXA..B.QC..B.QC..DDQ.
+..OPPP..O..Y..OAAY..B.QC..B.QC..DDQ.
 
 #demo 1.14
-.....ABBOOOAXXC...P.C...PQQQDDP.....
+.....YBBOOOYAAC...P.C...PQQQDDP.....
 
 #demo 1.15
-...OOO.PPPAAQQQXXB.....B..CRRR..C...
+...OOO.PPPYYQQQAAB.....B..CRRR..C...
 
 #demo 1.16
-.OOOAA.BBPPPXX...C.....CQQQRRR......
+.OOOYY.BBPPPAA...C.....CQQQRRR......
 
 #demo 1.17
-...A.BOOOA.BXXC...P.C...PQQQDDP.....
+...Y.BOOOY.BAAC...P.C...PQQQDDP.....
 
 #demo 1.18
-.O..AA.O..BB.OXXCD.P..CD.PQQQ..P....
+.O..YY.O..BB.OAACD.P..CD.PQQQ..P....
 
 #demo 1.19
-A..OOOAPPPBBXX...CD....CD....E.....E
+Y..OOOYPPPBBAA...CD....CD....E.....E
 
 #demo 1.20
-.A..BB.ACCDDXX...E.....EOOOPPP......
+.Y..BB.YCCDDAA...E.....EOOOPPP......
 
 #demo 1.21
-.ABBCC.A...D.OXX.D.O...E.O...EFF....
+.YBBCC.Y...D.OAA.D.O...E.O...EFF....
 
 #demo 1.22
-AOOOBBA.....PXX..CP....CP....DEE...D
+YOOOBBY.....PAA..CP....CP....DEE...D
 
 #demo 1.23
-OOOABP...ABPXXC..PD.C...D.EEFF......
+OOOYBP...YBPAAC..PD.C...D.EEFF......
 
 #demo 1.24
-..ABB...AOOO.XXCP....CP....DP....D..
+..YBB...YOOO.AACP....CP....DP....D..
 
 #demo 1.25
-A..BBCA...OCP.XXOQPDDEOQPFGE.Q.FGRRR
+Y..BBCY...OCP.AAOQPDDEOQPFGE.Q.FGRRR
 
 #demo 1.26
-AABBC.D..ECFDXXEGFHOOOG.H.I...JJI...
+YYBBC.D..ECFDAAEGFHOOOG.H.I...JJI...
 
 #demo 1.27
-O.A...O.A.BBO.XXCD....CDEE..F.....F.
+O.Y...O.Y.BBO.AACD....CDEE..F.....F.
 
 #demo 1.28
-....AA....BCXX..BCO.....ODDEE.O.....
+....YY....BCAA..BCO.....ODDEE.O.....
 
 #demo 1.29
-OOOAA.BCDDEEBCXX.FPGGH.FP..H.IP.QQQI
+OOOYY.BCDDEEBCAA.FPGGH.FP..H.IP.QQQI
 
 #demo 1.30
-.O.ABB.O.A.C.OXX.CDDE..P..E..PQQQ..P
+.O.YBB.O.Y.C.OAA.CDDE..P..E..PQQQ..P
 
 #demo 1.31
-AA..OBCC..OB.DXXO..D.E...FFEGG..HHII
+YY..OBCC..OB.DAAO..D.E...FFEGG..HHII
 
 #demo 1.32
-OOOAPBCC.APBD.XXPED.F..EG.FQQQG.....
+OOOYPBCC.YPBD.AAPED.F..EG.FQQQG.....
 #demo 1.33
 
-O.ABCCO.AB..OXXDE.FF.DE...GHH.IIG...
+O.YBCCO.YB..OAADE.FF.DE...GHH.IIG...
 
 #demo 1.34
-.OOO.....ABP.XXABP.....P..CQQQ..C...
+.OOO.....YBP.AAYBP.....P..CQQQ..C...
 
 #demo 1.35
-OABBCCOA.PPPOD.XXE.D...E.QQQFGHHIIFG
+OYBBCCOY.PPPOD.AAE.D...E.QQQFGHHIIFG
 
 #demo 1.36
-..O.....O...XXOA..P..A..PQQQB.PCC.B.
+..O.....O...AAOY..P..Y..PQQQB.PCC.B.
 
 #demo 1.37
-.OOOAA...BC.XX.BC..DDEE.............
+.OOOYY...BC.AA.BC..DDEE.............
 
 #demo 1.38
-..ABB...A...XXO.C...O.C...OPPP.DD...
+..YBB...Y...AAO.C...O.C...OPPP.DD...
 
 #demo 1.39
-.....O....AO.XX.AOBCCPPPB...DD......
+.....O....YO.AA.YOBCCPPPB...DD......
 
 #demo 1.40
-A.BBCCADDEEFXX..GFOOOHG..I.HJ..IKKJ.
+Y.BBCCYDDEEFAA..GFOOOHG..I.HJ..IKKJ.
 
 #demo 1.41
-OABBC.OADDCEOXX.FE..G.FP..GHHPQQQIIP
+OYBBC.OYDDCEOAA.FE..G.FP..GHHPQQQIIP
 
 #demo 1.42
-ABOOOCAB..PCQXX.PDQEE.PDQ.F.GGHHF.II
+YBOOOCYB..PCQAA.PDQEE.PDQ.F.GGHHF.II
 
 #demo 1.43
-A.BBCCAOOO.DXXEF.D..EFGG..PPPH.....H
+Y.BBCCYOOO.DAAEF.D..EFGG..PPPH.....H
 
 #demo 1.44
-A.BBCCA.D...XXD..E.FGGOE.F..OHPPP.OH
+Y.BBCCY.D...AAD..E.FGGOE.F..OHPPP.OH
 
 #demo 1.45
-..A...B.AOOOB.XXC.....C.....D.....D.
+..Y...B.YOOOB.AAC.....C.....D.....D.
 
 #demo 1.46
-O.AABBO...CDOXX.CD....P.....P.....P.
+O.YYBBO...CDOAA.CD....P.....P.....P.
 
 #demo 1.47
-.A.BCC.ADB.E.ODXXE.OFFPG.O..PGHH..P.
+.Y.BCC.YDB.E.ODAAE.OFFPG.O..PGHH..P.
 
 #demo 1.48
- A.BBCCA.D..EXXD..EOOO...............
+ Y.BBCCY.D..EAAD..EOOO...............
 
 #demo 1.49
-..O.....O...XXO.A.....A.....B...CCB.
+..O.....O...AAO.Y.....Y.....B...CCB.
 
 #demo 1.50
-.....O..PPPO...XXO...QAA...QBB...Q..
+.....O..PPPO...AAO...QYY...QBB...Q..
