@@ -9,16 +9,16 @@ Team member: Zeying Wu 40257530; Winyul yin 40176217
 #### write_sol_files(gameboards, fuel, algo, algo_string, h, h_string):
 gameboards is the array of initial gameboard configuration, fuel is the array of initial fuel for each gameboard, algo is the type of algorithm used for search, algo_string is the name of the algorithm, h is the heuristic function and h
 
-#UCS algo
+#### Run UCS algo across all gameboard
 write_sol_files(gameboards, fuel, UCS, 'ucs', None, None)
 
-#h1 to h4 for GBFS algo
-write_sol_files(gameboards, fuel, GBFS, 'gbfs', h1, 'h1')
-write_sol_files(gameboards, fuel, GBFS, 'gbfs', h2, 'h2')
-write_sol_files(gameboards, fuel, GBFS, 'gbfs', h3, 'h3')
-write_sol_files(gameboards, fuel, GBFS, 'gbfs', h4, 'h4')
+#### Run h1 to h4 for GBFS algo across all gameboard
+write_sol_files(gameboards, fuel, GBFS, 'gbfs', h1, 'h1') /n
+write_sol_files(gameboards, fuel, GBFS, 'gbfs', h2, 'h2') /n
+write_sol_files(gameboards, fuel, GBFS, 'gbfs', h3, 'h3')/n
+write_sol_files(gameboards, fuel, GBFS, 'gbfs', h4, 'h4')/n
 
-#h1 to h4 for A algo
+#### h1 to h4 for A algo
 write_sol_files(gameboards, fuel, A, 'a', h1, 'h1')
 write_sol_files(gameboards, fuel, A, 'a', h2, 'h2')
 write_sol_files(gameboards, fuel, A, 'a', h3, 'h3')
